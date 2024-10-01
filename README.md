@@ -13,7 +13,7 @@
   </tfoot>
 </table>
 
-![Activity 2](https://github.com/allegheny-college-cmpsc-104-Fall-2024/activity_VScode/blob/main/graphics/github_actions.png)
+![Activity 2](https://github.com/allegheny-college-cmpsc-104-Fall-2024/activity_markdown/blob/main/graphics/md_mark.png)
 
 ## Activity Goals
 - Gain proficiency in writing and formatting Markdown documents.
