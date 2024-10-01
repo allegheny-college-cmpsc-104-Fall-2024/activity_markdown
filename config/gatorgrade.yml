@@ -1,0 +1,14 @@
+setup: |
+  echo "🐊 All project dependencies have been installed!"
+---
+
+# perform checks on py_lint.yml
+- writing/myclass.md:
+    - description: "Ensure that a myclass.md file exists"
+      check: "ConfirmFileExists"
+    - description: "No TODOs remain in the myclass.md file"
+      check: "MatchFileFragment"
+      options:
+        fragment: "TODO"
+        count: 0
+        exact: true
